@@ -1,0 +1,6 @@
+nav a {
+    color: black; /* Temporarily change to black to ensure visibility */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
